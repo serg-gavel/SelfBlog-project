@@ -1,3 +1,10 @@
+      1) Discovery
+      2) Design
+      3) Development
+      4) QA/ Testing
+      5) Deployment
+
+
 #### Main Features:
 ###### 1. Blog posts
 ###### 2. Show videos from YouTube 
